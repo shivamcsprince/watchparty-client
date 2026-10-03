@@ -110,7 +110,8 @@ src/
 6. Add that URL to the **server's** `CLIENT_ORIGIN` env var so CORS and
    Socket.IO allow the request.
 
-**Live URL:** _paste your Vercel URL here_
+**Live URL:** https://watchparty-client-ashy.vercel.app
+**Backend:** https://usa-untitled-toddler-interactions.trycloudflare.com
 
 ## Known limits
 
